@@ -1,0 +1,13 @@
+setup.py
+coencode/LigoEvents.py
+coencode/TESTformTOstring.py
+coencode/__init__.py
+coencode/binning2D.py
+coencode/formationChannelRanking.py
+coencode/sseGridDataReader.py
+coencode/welcome.py
+coencode.egg-info/PKG-INFO
+coencode.egg-info/SOURCES.txt
+coencode.egg-info/dependency_links.txt
+coencode.egg-info/not-zip-safe
+coencode.egg-info/top_level.txt
